@@ -1,0 +1,3 @@
+s:
+	python speaker.py
+
